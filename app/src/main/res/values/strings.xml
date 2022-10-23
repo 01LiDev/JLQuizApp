@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JLQuizApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question1">What is the only food that cannot go bad?</string>
+</resources>
